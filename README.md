@@ -1,4 +1,5 @@
-Hi, I’m Almas
+Hi, I’m Almas!
+
 I’m interested in Data Engineering, Python coding
 
 Data Engineer with 8+ years of experience in data analysis and financial reporting, transitioning into data engineering. Skilled in SQL, PL/SQL, and Python with experience in Oracle DWH, MySQL, Qlik Sense, and Power BI. Adept at building automated data pipelines and transforming manual reporting into scalable solutions. Looking for remote opportunities in data engineering.
