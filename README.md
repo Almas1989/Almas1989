@@ -17,7 +17,6 @@ ETL & Visualization: Power BI, Qlik Sense, Tableu, Power Query, Excel<br/>
 Other Tools: DBeaver, Jupyter, Jira, Scrum, Kanban, Git, Bash, Linux, Pandas, Numpy<br/>
 Additional In-Demand Skills: Apache Airflow, dbt, AWS (S3, Redshift), Docker, Apache Spark, Kafka<br/>
 
-___
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almas89/) 
