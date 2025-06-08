@@ -10,11 +10,11 @@ Adept at building automated data pipelines and transforming manual reporting int
 Looking for remote opportunities in data engineering.<br/>
 
 Hard skills:<br/>
->Languages & Tools: SQL, PL/SQL, Python, MySQL<br/>
->Databases: Oracle DWH, MySQL, Google BigQuery, StarRocks<br/>
->ETL & Visualization: Power BI, Qlik Sense, Tableu, Power Query, Excel<br/>
->Other Tools: DBeaver, Jupyter, Jira, Scrum, Kanban, Git, Bash, Linux, Pandas, Numpy<br/>
->Additional In-Demand Skills: Apache Airflow, dbt, AWS (S3, Redshift), Docker, Apache Spark, Kafka<br/>
+[x] Languages & Tools: SQL, PL/SQL, Python, MySQL<br/>
+[x] Databases: Oracle DWH, MySQL, Google BigQuery, StarRocks<br/>
+[x] ETL & Visualization: Power BI, Qlik Sense, Tableu, Power Query, Excel<br/>
+[x] Other Tools: DBeaver, Jupyter, Jira, Scrum, Kanban, Git, Bash, Linux, Pandas, Numpy<br/>
+[x] Additional In-Demand Skills: Apache Airflow, dbt, AWS (S3, Redshift), Docker, Apache Spark, Kafka<br/>
 
 
 ## 🌐 Socials:
@@ -30,3 +30,7 @@ ___
 Almas1989/Almas1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```python
+print('Hello world!')
+```
