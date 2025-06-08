@@ -1,9 +1,8 @@
 # 💫 About Me:
-Data engineer | Python developer
 
 ## Hi, I’m Almas!
 
-I’m interested in Data Engineering, Python coding<br/>
+***I’m interested in Data Engineering, Python coding***<br/>
 
 Data Engineer with 8+ years of experience in data analysis and financial reporting, transitioning into data engineering.<br/> 
 Skilled in SQL, PL/SQL, and Python with experience in Oracle DWH, MySQL, Qlik Sense, and Power BI.<br/>
@@ -11,11 +10,11 @@ Adept at building automated data pipelines and transforming manual reporting int
 Looking for remote opportunities in data engineering.<br/>
 
 Hard skills:<br/>
-Languages & Tools: SQL, PL/SQL, Python, MySQL<br/>
-Databases: Oracle DWH, MySQL, Google BigQuery, StarRocks<br/>
-ETL & Visualization: Power BI, Qlik Sense, Tableu, Power Query, Excel<br/>
-Other Tools: DBeaver, Jupyter, Jira, Scrum, Kanban, Git, Bash, Linux, Pandas, Numpy<br/>
-Additional In-Demand Skills: Apache Airflow, dbt, AWS (S3, Redshift), Docker, Apache Spark, Kafka<br/>
+>Languages & Tools: SQL, PL/SQL, Python, MySQL<br/>
+>Databases: Oracle DWH, MySQL, Google BigQuery, StarRocks<br/>
+>ETL & Visualization: Power BI, Qlik Sense, Tableu, Power Query, Excel<br/>
+>Other Tools: DBeaver, Jupyter, Jira, Scrum, Kanban, Git, Bash, Linux, Pandas, Numpy<br/>
+>Additional In-Demand Skills: Apache Airflow, dbt, AWS (S3, Redshift), Docker, Apache Spark, Kafka<br/>
 
 
 ## 🌐 Socials:
