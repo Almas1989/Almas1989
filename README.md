@@ -20,7 +20,7 @@ Comfortable working with development and deployment tools such as Docker, Git, G
 - [x] **Python & Dev**: Python (OOP, async), FastAPI, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CSV module, SQLAlchemy, BeautifulSoup, PyTorch, OpenCV, LabelImg, YOLOv11, Telegram Bot API, aiogram, aiohttp<br/>
 - [x] **Databases & DWH**: Oracle PL/SQL, MySQL, PostgreSQL, Google BigQuery<br/>
 - [x] **Data Visualization & Modeling**: Qlik Sense, Power BI, Tableau, Excel, Power Query, Power Pivot<br/>
-- [x] **Developer Tools**: Git, Docker, VS Code, GitHub Copilot, Powershell, Linux, Bash, DBeaver, Jira<br/>
+- [x] **Developer Tools**: Git, Docker, VS Code, GitHub Copilot, Powershell, Linux, Bash, DBeaver, Jira, HTML, CSS<br/>
 
 
 
