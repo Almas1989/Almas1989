@@ -24,7 +24,7 @@ Comfortable working with development and deployment tools such as Docker, Git, G
 
 
 
-## 🌐 Socials:
+## 🌐 Contact info and other links:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adults_only_20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almas89/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksutbekovalmas@gmail.com)
