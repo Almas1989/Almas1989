@@ -2,7 +2,7 @@
 
 ## Hi, I’m Almas!
 
-***BI Engineer | Python Developer***<br/>
+***Data analyst | Python Developer***<br/>
 
 ## [MY PROJECTS LINK](https://github.com/Almas1989/Projects)
 
