@@ -1,6 +1,6 @@
 # 👨‍💻 **Almas Maksutbekov** 
 
-# Data Analyst | Python Developer | Machine Learning Enthusiast
+# Data Analyst | Data Scientist | Machine Learning Enthusiast
 
 **Welcome to my GitHub profile!**</br>
 
