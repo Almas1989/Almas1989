@@ -1,6 +1,6 @@
 # 👨‍💻 **Almas** 
 
-# Data Engineer | Python developer
+# AI Data Engineer
 
 **Welcome to my GitHub profile!**
 
