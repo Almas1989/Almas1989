@@ -1,6 +1,8 @@
-# 👨‍💻 **Almas** 
+# 👨‍💻 **Almas**
 
 # AI Data Engineer
+
+[![Live Resume](https://img.shields.io/badge/🌐_LIVE_WEB_RESUME-Click_Here-success?style=for-the-badge&logo=html5)](https://almas1989.github.io/my_resume/)
 
 **Welcome to my GitHub profile!**
 
@@ -49,8 +51,3 @@ Data Engineer with 8+ years of experience in building **ETL/ELT pipelines**, **d
 
 ```python
 print("Building data pipelines that scale! 🚀")
-```
-
----
-
-*Ready to architect your next data platform? Let's connect!*
