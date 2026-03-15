@@ -1,6 +1,6 @@
 # 👨‍💻 **Almas**
 
-# AI Data Engineer
+# Senior Data Engineer
 
 [![Live Resume](https://img.shields.io/badge/🌐_LIVE_WEB_RESUME-Click_Here-success?style=for-the-badge&logo=html5)](https://almas1989.github.io/my_resume/)
 
